@@ -52,19 +52,6 @@ Python · TypeScript · React · FastAPI · Docker · GitHub Actions · Linux ·
 - Keep systems observable, testable, and reversible.
 - Build focused interfaces that compose well.
 
-## 🧠 Luna-Bot
-
-A private, systems-focused Python project for research automation, data workflows, model evaluation, observability, and policy-gated integrations.
-
-The systems I work on include:
-
-- Data ingestion, caching, freshness, and lineage
-- Feature engineering, calibration, and model or ensemble maintenance
-- Decision and event ledgers, replay tools, and reproducible artifacts
-- Dashboard and operator-facing diagnostics
-- Validation automation and local CI workflows
-- Modular adapters with explicit boundaries for external actions
-
 ### AI-assisted engineering
 
 Hermes, Claude Code, and Codex are complementary engineering assistants in my workflow. The working contract is evidence-first:
